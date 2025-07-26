@@ -1,6 +1,6 @@
 # Galactic-DNS-as-dual-line-GW-source
 
-This repository is designed to simulate Galactic double neutron stars (DNSs) as dual-line gravitational wave (GW) sources. The simulations are based on population synthesis of DNSs with LISA. 
+This repository is designed to simulate Galactic double neutron stars (DNSs) as dual-line gravitational wave (GW) sources. The simulations are based on [population synthesis of DNSs with LISA](https://github.com/TomWagg/detecting-DCOs-in-LISA). 
 
 DNSs could serve as intriguing dual-line GW sources. They emit both high- and low-frequency GWs, arising respectively from the asymmetric spinning bodies of individual NSs and the binary orbital inspiral.
 
