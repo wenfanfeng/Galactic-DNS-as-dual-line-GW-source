@@ -5,6 +5,7 @@ This repository is designed to simulate Galactic double neutron stars (DNSs) as 
 DNSs could serve as intriguing dual-line GW sources. They emit both high- and low-frequency GWs, arising respectively from the asymmetric spinning bodies of individual NSs and the binary orbital inspiral.
 
 [Schematic of a dual-line GW source and its detection (Feng et al. 2024)](https://arxiv.org/abs/2401.11241v1)
+
 <img src="dual-line-GW-source-FengetalPRD2024.png" alt="" width="600">
 
 ## Citations
